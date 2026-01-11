@@ -1,0 +1,5 @@
+bg-inherit
+bg-blue-500
+bg-black
+bg-gray-900
+bg-yellow-100
